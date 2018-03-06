@@ -1,7 +1,7 @@
 function whisper(string) {
-  return string.Lowercase()
+  return string.to Lowercase();
 }
 function shout(string) {
-  return string.Uppercase()
+  return string.to Uppercase();
 }
 
